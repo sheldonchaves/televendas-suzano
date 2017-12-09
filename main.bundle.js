@@ -265,11 +265,11 @@ var ClientsService = (function () {
     function ClientsService() {
         this.clients = [];
         var cliente1 = new __WEBPACK_IMPORTED_MODULE_1__models_client__["a" /* Client */]();
-        cliente1.id = "0100001";
+        cliente1.id = "1005632";
         cliente1.name = "nome1";
         this.clients.push(cliente1);
         var cliente2 = new __WEBPACK_IMPORTED_MODULE_1__models_client__["a" /* Client */]();
-        cliente2.id = "0100002";
+        cliente2.id = "1005629";
         cliente2.name = "nome2";
         this.clients.push(cliente2);
     }
