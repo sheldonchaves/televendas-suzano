@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>TelevendasSuzano</title>
+	<base href="/televendas-suzano-dist">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+	<app-root></app-root>
+	<script type="text/javascript" src="televendas-suzano-dist/inline.bundle.js"></script>
+	<script type="text/javascript" src="televendas-suzano-dist/polyfills.bundle.js"></script>
+	<script type="text/javascript" src="televendas-suzano-dist/scripts.bundle.js"></script>
+	<script type="text/javascript" src="televendas-suzano-dist/styles.bundle.js"></script>
+	<script type="text/javascript" src="televendas-suzano-dist/vendor.bundle.js"></script>
+	<script type="text/javascript" src="televendas-suzano-dist/main.bundle.js"></script>
+</body>
+</html>
